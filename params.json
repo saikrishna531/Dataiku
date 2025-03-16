@@ -85,6 +85,7 @@
             "configuration": {
               "useProxy": true,
               "username": "saikrishna531",
+              "accessToken": "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",
               "repository": "git@github.com:saikrishna531/Dataiku.git"
             }
           }
