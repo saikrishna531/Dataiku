@@ -105,7 +105,7 @@
               "useProxy": true,
               "username": "saikrishna531",
               "accessToken": "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",
-              "repository": "https://github.com/saikrishna531/Dataiku.git"
+              "repository": "git@github.com:saikrishna531/Dataiku.git"
             }
           }
         }
