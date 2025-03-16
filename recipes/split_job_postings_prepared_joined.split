@@ -189,10 +189,6 @@
                 "type": "bigint"
               },
               {
-                "name": "min_salary",
-                "type": "bigint"
-              },
-              {
                 "name": "education_level",
                 "type": "string"
               },
